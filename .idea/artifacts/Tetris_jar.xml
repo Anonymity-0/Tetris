@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Tetris:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tetris_jar</output-path>
+    <root id="archive" name="Tetris.jar">
+      <element id="module-output" name="Tetris" />
+      <element id="dir-copy" path="$PROJECT_DIR$/audio" />
+      <element id="dir-copy" path="$PROJECT_DIR$/image" />
+      <element id="dir-copy" path="$PROJECT_DIR$/save" />
+    </root>
+  </artifact>
+</component>
